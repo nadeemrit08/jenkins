@@ -1,4 +1,4 @@
-package in.kodewala.thread4.extendsThread;
+package in.kodewala.thread04.extendsThread;
 
 class MyThread extends Thread {
 

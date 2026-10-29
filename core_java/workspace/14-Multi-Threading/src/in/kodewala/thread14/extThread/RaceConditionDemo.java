@@ -1,4 +1,4 @@
-package in.kodewala.thread96.extThread;
+package in.kodewala.thread14.extThread;
 
 /*
  *  "In this example, balance is a static shared resource, so all customer threads access the same data. 

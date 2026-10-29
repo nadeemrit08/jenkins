@@ -1,4 +1,4 @@
-package in.kodewala.thread95.extThread;
+package in.kodewala.thread13.extThread;
 
 /*
  *  "In this example, BankAccount is a shared resource accessed by multiple customer threads. 

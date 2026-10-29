@@ -1,4 +1,4 @@
-package in.kodewala.thread5.implRunnable;
+package in.kodewala.thread05.implRunnable;
 
 class MyThread implements Runnable {
 

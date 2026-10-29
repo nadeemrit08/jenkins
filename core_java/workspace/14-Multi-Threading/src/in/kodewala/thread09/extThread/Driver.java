@@ -1,4 +1,4 @@
-package in.kodewala.thread9.extThread;
+package in.kodewala.thread09.extThread;
 
 /*
  * Hotel --> Order Food --> Waiter --> cook --> cooking --> waiter will serve food

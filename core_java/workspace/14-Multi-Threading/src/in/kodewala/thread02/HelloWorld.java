@@ -1,4 +1,4 @@
-package in.kodewala.thread2;
+package in.kodewala.thread02;
 
 public class HelloWorld {
 

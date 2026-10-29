@@ -1,4 +1,4 @@
-package in.kodewala.thread8.extThread;
+package in.kodewala.thread08.extThread;
 
 class OddThread extends Thread {
 

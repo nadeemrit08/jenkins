@@ -1,0 +1,11 @@
+id,name,category,brand,price,rating,color,quantity
+1,Laptop,Electronics,Dell,65000,4.5,Black,20
+2,Mouse,Electronics,Logitech,800,4.3,Black,100
+3,Keyboard,Electronics,HP,1500,4.2,White,50
+4,Monitor,Electronics,Samsung,12000,4.6,Black,30
+5,Mobile,Electronics,Apple,85000,4.9,Blue,10
+6,Headphones,Electronics,Sony,3500,4.4,Black,40
+7,Printer,Electronics,Canon,9500,4.1,White,15
+8,Chair,Furniture,Godrej,4500,4.0,Brown,25
+9,Desk,Furniture,Ikea,7000,4.3,Oak,12
+10,Bottle,Kitchen,Milton,500,4.7,Green,80

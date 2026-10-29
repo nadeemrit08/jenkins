@@ -1,11 +1,11 @@
-package in.kodewala.thread93.extThread;
+package in.kodewala.thread11.extThread;
 
 class BankAccount {
 
 	private int balance = 1000;
 
 	// synchronized prevents race condition
-	public synchronized void withdraw(int amount) {
+	public  void withdraw(int amount) {
 
 		if (balance >= amount) {
 

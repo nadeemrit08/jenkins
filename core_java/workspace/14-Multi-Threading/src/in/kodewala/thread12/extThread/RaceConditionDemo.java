@@ -1,4 +1,4 @@
-package in.kodewala.thread94.extThread;
+package in.kodewala.thread12.extThread;
 
 /*
  * "BankAccount is a shared resource accessed by multiple customer threads. 

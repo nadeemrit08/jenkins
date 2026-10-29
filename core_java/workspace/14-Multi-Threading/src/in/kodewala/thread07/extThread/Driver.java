@@ -1,4 +1,4 @@
-package in.kodewala.thread7.extThread;
+package in.kodewala.thread07.extThread;
 
 class PrintNumbers extends Thread {
 	@Override
